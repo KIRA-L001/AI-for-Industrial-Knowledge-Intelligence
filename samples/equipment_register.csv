@@ -1,0 +1,9 @@
+tag,name,equipment_type,manufacturer,model,criticality,status,standard
+P-101,Crude Feed Pump,Centrifugal Pump,Sulzer,OHH-200,critical,operational,API 610
+P-102,Crude Feed Pump (Standby),Centrifugal Pump,Sulzer,OHH-200,high,operational,API 610
+C-200,Recycle Gas Compressor,Centrifugal Compressor,Siemens,STC-GV,critical,operational,API 617
+V-2003,Knockout Drum,Pressure Vessel,L&T,KOD-2003,high,operational,OISD-STD-130
+E-310,Crude Preheat Exchanger,Shell & Tube Exchanger,Alfa Laval,STX-310,medium,operational,TEMA
+PSV-4501,Pressure Safety Valve,Relief Valve,Anderson Greenwood,93B,critical,operational,API 526
+T-500,Atmospheric Distillation Column,Column,Technip,ADU-500,critical,operational,OISD-STD-105
+B-700,Fired Heater,Process Heater,Thermax,FH-700,critical,maintenance,API 560

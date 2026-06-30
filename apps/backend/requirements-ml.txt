@@ -1,0 +1,13 @@
+# ─── Optional heavy ML stack (real embeddings + reranking) ───
+# Install on top of requirements.txt to enable Sentence-Transformers embeddings
+# and cross-encoder reranking. Use the CPU torch wheel to avoid the ~2.5 GB CUDA
+# download:
+#
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch==2.5.1
+#   pip install -r requirements-ml.txt
+#
+# Without these, KIRA runs with the deterministic hashing embedder + lexical
+# reranker fallbacks (no model downloads required).
+
+sentence-transformers==3.3.1
+langchain-core==0.3.28

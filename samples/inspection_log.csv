@@ -1,0 +1,6 @@
+date,equipment_tag,inspection_type,method,result,recommendation,standard,inspector
+2026-01-05,V-2003,Thickness survey,Ultrasonic Testing,Minimum wall thickness 11.2 mm vs 9.5 mm retirement,Continue monitoring at 12-month interval,OISD-STD-130,QA-Cell
+2026-01-18,T-500,External visual,Visual + drone,Insulation damage at elevation 18 m,Repair cladding to prevent CUI,OISD-STD-105,QA-Cell
+2026-02-22,E-310,Tube inspection,Eddy Current,3% of tubes plugged; no through-wall defects,Plan retubing in 2 turnarounds,TEMA,QA-Cell
+2026-03-30,B-700,Tube metallurgy,Visual + thermography,Localized hot spot on radiant tube,Reduce firing and inspect at shutdown,API 560,QA-Cell
+2026-04-15,PSV-4501,Pop test,Bench test,Set pressure drift 4%,Recertify and reset,API 526,QA-Cell

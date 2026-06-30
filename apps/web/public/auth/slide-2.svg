@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="s2bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#155e75"/>
+      <stop offset="0.5" stop-color="#1e40af"/>
+      <stop offset="1" stop-color="#0a1326"/>
+    </linearGradient>
+    <radialGradient id="s2glowA" cx="52%" cy="38%" r="55%">
+      <stop offset="0" stop-color="#5ee9ff" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="s2glowB" cx="18%" cy="82%" r="48%">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="node" cx="45%" cy="40%" r="60%">
+      <stop offset="0" stop-color="#bff3ff"/>
+      <stop offset="0.5" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#1d4ed8"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1500" fill="url(#s2bg)"/>
+  <rect width="1200" height="1500" fill="url(#s2glowA)"/>
+  <rect width="1200" height="1500" fill="url(#s2glowB)"/>
+  <g stroke="#bdf0ff" stroke-opacity="0.5" stroke-width="2.5">
+    <line x1="600" y1="540" x2="330" y2="330"/>
+    <line x1="600" y1="540" x2="880" y2="360"/>
+    <line x1="600" y1="540" x2="380" y2="780"/>
+    <line x1="600" y1="540" x2="860" y2="760"/>
+    <line x1="600" y1="540" x2="600" y2="980"/>
+    <line x1="330" y1="330" x2="180" y2="560"/>
+    <line x1="880" y1="360" x2="1020" y2="600"/>
+    <line x1="380" y1="780" x2="300" y2="1040"/>
+    <line x1="860" y1="760" x2="980" y2="1010"/>
+    <line x1="600" y1="980" x2="430" y2="1180"/>
+    <line x1="600" y1="980" x2="770" y2="1180"/>
+  </g>
+  <g>
+    <circle cx="600" cy="540" r="46" fill="url(#node)"/>
+    <circle cx="600" cy="540" r="66" fill="none" stroke="#bff3ff" stroke-opacity="0.5"/>
+    <circle cx="330" cy="330" r="26" fill="url(#node)"/>
+    <circle cx="880" cy="360" r="28" fill="url(#node)"/>
+    <circle cx="380" cy="780" r="24" fill="url(#node)"/>
+    <circle cx="860" cy="760" r="26" fill="url(#node)"/>
+    <circle cx="600" cy="980" r="32" fill="url(#node)"/>
+    <circle cx="180" cy="560" r="17" fill="url(#node)"/>
+    <circle cx="1020" cy="600" r="19" fill="url(#node)"/>
+    <circle cx="300" cy="1040" r="19" fill="url(#node)"/>
+    <circle cx="980" cy="1010" r="17" fill="url(#node)"/>
+    <circle cx="430" cy="1180" r="15" fill="url(#node)"/>
+    <circle cx="770" cy="1180" r="16" fill="url(#node)"/>
+  </g>
+  <g fill="#ffffff" font-family="monospace" font-size="24" fill-opacity="0.92">
+    <text x="656" y="548">P-101</text>
+    <text x="904" y="356">OISD</text>
+    <text x="406" y="788">PESO</text>
+    <text x="888" y="756">API 610</text>
+    <text x="640" y="990">C-200</text>
+  </g>
+</svg>

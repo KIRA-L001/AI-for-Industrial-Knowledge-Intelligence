@@ -1,0 +1,11 @@
+date,equipment_tag,equipment_name,activity,finding,action_taken,standard,technician
+2025-11-03,P-101,Crude Feed Pump,Preventive maintenance,Mechanical seal showing minor weep,Replaced mechanical seal and flush plan per API 682,API 682,R. Mehta
+2025-12-15,P-101,Crude Feed Pump,Breakdown repair,Seal failed due to dry running during startup,Installed dry-run protection and revised SOP,OISD-STD-105,R. Mehta
+2026-01-20,P-102,Crude Feed Pump (Standby),Vibration survey,Bearing vibration 6.1 mm/s above alarm,Replaced DE bearing and re-aligned coupling,ISO 10816,S. Iyer
+2026-02-10,C-200,Recycle Gas Compressor,Predictive maintenance,Stage-2 discharge temperature trending high,Cleaned intercooler and replaced fouled tubes,API 617,A. Khan
+2026-02-28,V-2003,Knockout Drum,Inspection,Wall thickness within limits; minor external corrosion,Applied protective coating,OISD-STD-130,P. Rao
+2026-03-12,E-310,Crude Preheat Exchanger,Cleaning,Tube-side fouling reducing duty by 12%,Hydro-jetted tube bundle,TEMA,P. Rao
+2026-03-25,PSV-4501,Pressure Safety Valve,Calibration,Set pressure drift of 4% observed,Recalibrated and certified set pressure,API 526,S. Iyer
+2026-04-08,C-200,Recycle Gas Compressor,Breakdown repair,Trip on high axial displacement,Replaced thrust bearing pads,API 617,A. Khan
+2026-04-19,P-101,Crude Feed Pump,Condition monitoring,Seal flush flow restored to normal,Verified seal plan 53B operation,API 682,R. Mehta
+2026-05-02,T-500,Atmospheric Distillation Column,Inspection,Tray 18 fouling suspected from delta-P,Scheduled internal inspection at next turnaround,OISD-STD-105,P. Rao

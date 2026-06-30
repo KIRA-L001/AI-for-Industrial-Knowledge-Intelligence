@@ -1,0 +1,8 @@
+item_id,area,requirement,governing_standard,equipment_tag,status,gap,due_date
+CMP-001,Pressure relief,All pressure safety valves tested at statutory interval,API 526,PSV-4501,Open,PSV-4501 testing overdue by 30 days,2026-06-15
+CMP-002,Static & rotating,Pumps handling hydrocarbons fitted with seal flush per plan,API 682,P-101,Closed,No gap,2026-03-31
+CMP-003,Storage,Knockout drums inspected for corrosion under insulation,OISD-STD-130,V-2003,Open,CUI inspection scope not finalized,2026-07-10
+CMP-004,Fire safety,Hydrocarbon handling areas comply with deluge coverage,OISD-STD-116,T-500,Closed,No gap,2026-02-28
+CMP-005,Statutory,Plant operates within Factory Act safety provisions,Factory Act,PLANT,Open,Annual safety audit pending,2026-08-01
+CMP-006,Licensing,Petroleum storage licensed and compliant,PESO,T-500,Closed,License valid,2026-12-31
+CMP-007,Machinery,Rotating machinery vibration within ISO limits,ISO 10816,C-200,Open,C-200 thrust monitoring not continuous,2026-06-30
